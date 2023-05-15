@@ -1,0 +1,8 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "scm.defaultViewMode": "list",
+    "git.autofetchPeriod": 180,
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    }
+}
